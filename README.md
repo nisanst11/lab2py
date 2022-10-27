@@ -3,7 +3,7 @@
 Menjalankan Python Console
 Menampilkan tulisan “Hello” dilayar
 Menampilkan tulisan “Saya sedang belajar python” dilayar
-![image1.png](Screenshot/1.png)
+![image1.png](screenshot/latihan1.png)
 
 ## Latihan 2
 Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
@@ -11,7 +11,7 @@ Mendefinisikan variable a dengan nilai 8
 Mendefinisikan variable b dengan nilai 6
 Mencetak nilai variable a dan b
 Mencetak hasil penjumlahan a+b
-![image2.png](Screenshot/2.png)
+![image2.png](screenshot/latihan2.png)
 
 ## Latihan 3
  Menjalankan IDLE
@@ -25,4 +25,4 @@ Mencetak hasil penjumlahan a+b
  # 4.konversi nilai variabel 
 ## FYI jika TypeError: %d format: a number is required, not str"
 ## Jika args adalah daftar atau tupel, %s dapat digunakan sebagai pengganti dalam kueri. Jika args adalah dict, %(name)s dapat digunakan sebagai placeholder dalam kueri.
-
+![image3.png](screenshot/latihan3.png)
